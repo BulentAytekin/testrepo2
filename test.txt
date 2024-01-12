@@ -4,3 +4,6 @@
 
 2.commit tasarim
 tasarimm
+
+3.commit 
+git ignore kullanımı
